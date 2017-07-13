@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalArchivalTracker", "DigitalArchivalTracker\DigitalArchivalTracker.csproj", "{6F2FCE33-6234-4855-9237-56EF3BBE191E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject2", "CodedUITestProject2\CodedUITestProject2.csproj", "{AFD9C664-5526-4C03-9DCB-CF808B13DF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2FCE33-6234-4855-9237-56EF3BBE191E}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9C664-5526-4C03-9DCB-CF808B13DF40}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

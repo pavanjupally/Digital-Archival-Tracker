@@ -1,0 +1,13 @@
+Before you install Digital Archival Tracker, a driver called "Access Database Engine X64" will be present in the folder.
+
+--->Install Access Database Engine X64 driver. 
+--->Install Digital Archival Tracker Setup.
+
+You can now follow these steps to run the application (only required once):
+1. After you've installed Digital Archival Tracker, go to installation directory. 
+2. Navigate to Digital Archival Tracker -> bin -> Debug -> (Right click on green icon ).
+3. Go to Properties -> Security Tab -> Check "Run this program as as administrator".
+4. Click OK. 
+5. Finally, (Right click on green icon) Send to -> Desktop Create Shortcut.
+
+You can now use the application straight from the Desktop.
